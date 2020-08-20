@@ -58,7 +58,7 @@ def entryy():
         sleep(0.0065)
 
 
-    tt = " " * 6 + "░█" + " " * 5 + "WELCOME TO INSTAGRAM MAIL EXTRACTOR" + " " * 14 + "░█" + "\n\n"
+    tt = " " * 6 + "░█" + " " * 5 + "WELCOME TO  MAIL EXTRACTOR" + " " * 23 + "░█" + "\n\n"
     for c in tt:
         print(colors.CWHITE + c, end='')
         sys.stdout.flush()
