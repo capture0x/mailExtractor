@@ -15,7 +15,7 @@ Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
 ## 📹 How to use 📹
 
 
-[![How to use MailExtractor](https://i.imgur.com/5hgu1AP.png)](https://www.youtube.com/watch?v=GwIGxGEI2Rc)
+[![How to use MailExtractor](https://i.imgur.com/5hgu1AP.png)](https://youtu.be/ivuMdd6aVSs)
 
 Click on the image...
 
